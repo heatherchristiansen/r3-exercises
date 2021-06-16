@@ -2,4 +2,8 @@
 title: "Welcome"
 ---
 
+<<<<<<< HEAD
 Hello, ever!
+=======
+Hello, everyoneb!
+>>>>>>> 3cb3de6 (attempt2)
